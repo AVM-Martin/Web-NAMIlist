@@ -22,7 +22,7 @@ class Menu extends React.Component {
   render() {
     return (
       <li class="nav-item">
-        <div class="nav-link" onClick={ this._handleClick }>
+        <div type="button" class="nav-link" onClick={ this._handleClick }>
           { this.state.name }
         </div>
       </li>
