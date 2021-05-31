@@ -118,7 +118,7 @@
 			[1363, "独りんぼエンヴィー", "Hitorinbo Envy", "初音ミク, 電ポルP (koyori) / Hatsune Miku, Denpol-P (koyori)"],
 			[1822, "禁じられた遊び", "Kinijareta Asobi", "ALI PROJECT"],
 			[2273, "メランコリック", "Melancholic", "鏡音リン, Junky / Kagamine Rin"],
-			[2910, "ラムのラブソング", "Ram no love song", "N/A"],
+			[2910, "ラムのラブソング", "Ram no love song", "松谷祐子, Urusei Yatsura OP / Matsutani Yuuko"],
 			[3440, "ただ君に晴れ", "Tada Kimi ni Hare", "ヨルシカ / Yorushika"],
 			[3846, "ルマ", "Ruma", "初音ミク, かいりきベア / Hatsune Miku, Kairiki Bear"],
 			[4378, "不可思議のカルテ", "Fukashigi no Carte", "Seishun Buta Yarou (Aobuta) ED"],
@@ -231,7 +231,7 @@
 			[2627, "ナーヴ・インパルス", "Nerve Impulse", "闇音レンリ / Yamine Renri"],
 			[2971, "雨音ノイズ", "Amaoto Noise", "初音ミク, 40mP / Hatsune Miku"],
 			[3741, "きみも悪い人でよかった", "Kimi mo Warui Hito de Yokatta", "初音ミク, ピノキオP / Hatsune Miku, Pinocchio-P"],
-			[3991, "N/A", "Koi", "N/A"],
+			[3991, "恋", "Koi", "星野 源 / Hoshino Gen"],
 			[4560, "あんずのうた", "Anzu no Uta", "双葉杏 / Futaba Anzu (IDOLM@STER)"],
 			[5277, "狂喜乱舞", "Kyouki Ranbu", "巡音ルカ, GUMI, 初音ミク, 梅とら / Megurine Luka, Hatsune Miku, Umetora"],
 			[5532, "言って", "Itte (Say it)", "ヨルシカ / Yorushika"],
@@ -247,7 +247,7 @@
 			[358, "プラスティック・ラヴ", "Plastic Love", "竹内 まりや / Mariya Takeuchi"],
 			[1050, "うっせぇわ", "USSEEWA", "Ado"],
 			[1557, "ダーリンダンス", "Darling Dance", "初音ミク, かいりきベア / Hatsune Miku, Kairiki Bear"],
-			[2094, "おねがいダーリン", "Onegai Darling", "N/A"],
+			[2094, "おねがいダーリン", "ONEgai Darling", "ナナホシ管弦楽団, ONE / Nanahoshi Kangengakudan"],
 			[2534, "ひまわりの約束", "Himawari no Yakusoku", "秦基博 / Hata Motohiro"],
 			[3396, "メルト", "Melt", "初音ミク, ryo / Hatsune Miku"],
 			[4023, "恋愛サーキュレーション", "Renai Circulation", "花澤 香菜 / Hanazawa Kana"],
@@ -269,7 +269,7 @@
 			[656, "Youthful Beautiful", "Youthful Beautiful", "内田真礼, SSSS Gridman ED / Uchida Maaya"],
 			[1342, "♡桃色片想い♡", "♡Momoiro Kataomoi♡", "松浦 亜弥 / Matsuura Aya"],
 			[2057, "Ryrie", "Ryrie", "初音ミク, Chinmari-P / Hatsune Miku"],
-			[2450, "N/A", "I love you I need you (We love you too <3)", "N/A"],
+			[2450, "アイラビューアイニジュー", "I love you I need you", "初音ミク, KEI / Hatsune Miku"],
 			[2903, "こちら、幸福安心委員会です。", "Kochira, Koufuku Anshin Iinkai desu.", "初音ミク, うたたP / Hatsune Miku, UtataP"],
 			[4582, "Pokemon Theme", "Pokemon Theme", "Jason Paige, Pokemon OP"],
 			[5194, "Sweets Parade", "Sweets Parade", "花澤 香菜 / Hanazawa Kana"],
@@ -622,7 +622,7 @@
 	"IXiKFYPAO9k": {
 		"epoch": 1423524473,
 		"songs": [
-			[0, "Flower", "Flower", "??? N/A"]
+			[0, "Flower", "Flower", "初音ミク, とあ / Hatsune Miku, Toa"]
 		]
 	},
 	"hPSQ23NRED8": {
